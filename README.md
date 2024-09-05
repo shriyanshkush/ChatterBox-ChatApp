@@ -24,3 +24,23 @@ To get started with Chatterbox, follow these steps:
    ```bash
    git clone https://github.com/shriyanshkush/chatterbox.git
 
+2.**Navigate to the Project Directory**
+  cd chatterbox
+
+3.**Install Dependencies**
+  Make sure you have Flutter installed. Run the following command to install the necessary dependencies:
+  flutter pub get
+
+4.**Configure Firebase**
+
+  -Create a Firebase project at Firebase Console.
+  -Add Firebase to your Flutter app by following the Firebase setup instructions.
+  -Download the google-services.json (for Android) and/or GoogleService-Info.plist (for iOS) and place them in the appropriate directory.
+  -Run the App
+
+5.**To run the app on your device or emulator, use:**
+
+ flutter run
+ 
+  
+
