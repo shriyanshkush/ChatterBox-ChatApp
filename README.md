@@ -1,16 +1,26 @@
-# chatapp
+# Chatterbox
 
-A new Flutter project.
+Chatterbox is a chat application built with Flutter and Dart that allows users to chat with others registered via email and send photos. The app is designed to provide a seamless messaging experience with a modern UI and robust functionality.
+
+## Features
+
+- **User Registration**: Register and log in using email.
+- **Real-Time Chat**: Send and receive messages in real time.
+- **Photo Sharing**: Send and receive photos in chats.
+- **User Profiles**: View and manage user profiles.
+
+## Technologies Used
+
+- **Flutter**: For building the app's UI and functionality.
+- **Dart**: For app logic and implementation.
+- **Firebase**: For backend services including authentication, real-time database, and storage.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with Chatterbox, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. **Clone the Repository**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+   ```bash
+   git clone https://github.com/shriyanshkush/chatterbox.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
