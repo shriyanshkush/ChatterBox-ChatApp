@@ -1,3 +1,6 @@
+# Firebase options file
+firebase_options.dart
+
 # Miscellaneous
 *.class
 *.log
