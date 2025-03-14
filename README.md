@@ -4,7 +4,7 @@ Chatterbox is a chat application built with Flutter and Dart that allows users t
 
 ## 📸 App Screenshots  
 
-Here are some screenshots of the **ProFixer Service Booking App**:
+Here are some screenshots of the **ChatterBox App**:
 
 ### 🏠 Login Page  
 ![Home Screen](https://github.com/shriyanshkush/ChatterBox-ChatApp/blob/9a61e27980a7f83f4654af4124b0096e37c20cdd/Screenshot%20(716).png)
